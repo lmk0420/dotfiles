@@ -1,0 +1,17 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+
+brew "git"
+brew "nodebrew"
+brew "yarn"
+brew "nkf"
+brew "jq"
+brew "wget"
+
+cask "google-chrome"
+cask "google-japanese-ime"
+cask "iterm2"
+cask "visual-studio-code"
+cask "docker"
+cask "postman"
